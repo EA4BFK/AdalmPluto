@@ -1,1 +1,2 @@
-# Detail PCB Information
+# Detailed PCB Information
+
